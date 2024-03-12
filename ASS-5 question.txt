@@ -1,0 +1,31 @@
+
+
+Assignment 5: Node JS
+
+Problem Statement:
+
+
+1. Create API for Restaurants location drop down list on Home page of Zomato Clone
+website using Node.js.
+Note: You can create static .json files in your Models folder in VS Code project to store the
+sample data and fetch data from json files.
+
+2. Take City name (Example:Mumbai) as params in the URL and find restaurant data with
+respect to the city name.
+
+
+Note : Means, if you enter a city name as params in the URL, its API should return the list of
+Restaurants located in that City.
+⮚ Sample data available in Module 7 in the LMS under Full Stack Web Development-
+Internship Program
+⮚ There are 3 txt files : restaurantData, mealtype and locations in the sample data rar file.
+⮚ Download the file and extract it using winrar or 7zip extractor to access the data files.
+⮚ Example of how your URL should look like for above API call: http://localhost:8900/Delhi
+
+
+
+3. Create an API for Restaurants Widget List drop-down using Express and Sample data
+mealtypes. Means, write an API to list all the mealtypes in the quick searches.
+Note: widget is just a route name for specifying a unique route for the API call.
+⮚ Example of how your URL should look like for above API call:
+http://localhost:8900/widget
